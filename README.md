@@ -56,7 +56,7 @@ In addition to lending structure to your documents, the use of Markdown allows y
 | `**WORD**`	| Bold	|
 | `_WORD_`	| Italics	|
 
-For more thorough lists of Markdown options, see the online [resources](#resources) linked above.
+For more thorough lists of Markdown options, see the online [resources](#resources) linked above. To practice your Markdown skills, see [exercise-1](exercise-1) and [exercise-2](exercise-2).
 
 ## Rendering Markdown
 In order to view the rendered version of your Markdown sytax, you need to use a program that converts from Markdown into a formatted document. Luckily, GitHub will automatically render your `README.md` files, and Slack/StackOverflow will automatically format your messages. However, it can be helpful to preview your rendered markdown before pushing your code. Here are a few options to do so:
